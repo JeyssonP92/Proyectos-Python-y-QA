@@ -14,6 +14,23 @@ Este proyecto implementa pruebas automatizadas de interfaz de usuario (**UI End-
 
 Cada ejecución genera automáticamente capturas de pantalla (`.png`) de respaldo para auditoría de calidad en cada escenario evaluado.
 
+## Evidencias Visuales de Ejecución
+
+### 1. Acceso Exitoso al Catálogo
+![Login Exitoso](evidencias/evidencia_login_exitoso.png)
+
+### 2. Bloqueo por Contraseña Incorrecta
+![Login Fallido](evidencias/evidencia_login_fallido.png)    
+
+### 3. Validación de Campos Obligatorios
+![Campos Vacíos](evidencias/evidencia_campos_vacios.png)
+
+### 4.Control de Usuario Inexistente
+![Usuario Inexistente](evidencias/evidencia_usuario_inexistente.png)
+
+### 5. Flujo Completo de Compra (E2E)
+![Compra Exitosa](evidencias/evidencia_de_compra_exitosa.png)
+
 ## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3
