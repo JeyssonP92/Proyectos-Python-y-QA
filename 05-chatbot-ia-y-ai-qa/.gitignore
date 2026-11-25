@@ -1,0 +1,4 @@
+.env
+menu.bat
+__pycache__/
+.pytest_cache/
