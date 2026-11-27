@@ -10,11 +10,12 @@ Este repositorio centraliza proyectos prácticos desarrollados bajo estándares 
 
 | # | Proyecto / Carpeta | Enfoque Técnico | Tecnologías Clave |
 | :--- | :--- | :--- | :--- |
-| **01** | **[Análisis y Data QA](./01-analisis-y-data-qa)** | Pipelines ETL, contratos de calidad de datos, aislamiento en cuarentena, almacenamiento relacional y dashboards ejecutivos. | `Python`, `Pandas`, `Pandera`, `SQLite`, `Pytest`, `Matplotlib` |
+| **01** | **[Lógica y Estructuras en Python](./03-logica-python)** | Resolución de problemas algorítmicos, manejo de estructuras de datos y optimización de código limpio. | `Python 3` |
 | **02** | **[Testing de APIs REST (CRUD)](./02-testing-apis-crud)** | Automatización de pruebas de integración sobre servicios web, validación de códigos HTTP, tiempos de respuesta y contratos JSON. | `Python`, `Requests`, `Pytest` |
-| **03** | **[Lógica y Estructuras en Python](./03-logica-python)** | Resolución de problemas algorítmicos, manejo de estructuras de datos y optimización de código limpio. | `Python 3` |
+| **03** | **[Análisis y Data QA](./01-analisis-y-data-qa)** | Pipelines ETL, contratos de calidad de datos, aislamiento en cuarentena, almacenamiento relacional y dashboards ejecutivos. | `Python`, `Pandas`, `Pandera`, `SQLite`, `Pytest`, `Matplotlib` |
 | **04** | **[QA Automation UI (E2E)](./04-qa-automation-ui)** | Automatización de flujos completos de usuario en navegador real (autenticación, validaciones negativas y proceso de compra *Checkout*) con evidencias visuales. | `Playwright`, `Pytest`, `Chromium` |
 | **05** | **[Chatbot IA & AI QA Testing](./05-chatbot-ia-y-ai-qa)** | Asistente corporativo basado en contexto controlado (**RAG**) con auditoría automatizada contra alucinaciones y ataques de *Prompt Injection*. | `Google GenAI (Gemini)`, `Pytest`, `python-dotenv` |
+
 
 ---
 
